@@ -10,5 +10,9 @@ cout<<"S not number";
 IsBreak=true; 
 break;
 }
+<<<<<<< HEAD
 else cout<<"Hello world "<<s<<" "<<7;
+=======
+else cout<<"Hello world "<<s<<" "<<5;
+>>>>>>> feature/adding_5_number
 }
