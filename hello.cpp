@@ -10,5 +10,5 @@ cout<<"S not number";
 IsBreak=true; 
 break;
 }
-else cout<<"Hello world "<<s;
+else cout<<"Hello world "<<s<<" "<<5;
 }
